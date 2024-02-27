@@ -3,7 +3,7 @@
 
 * {
   margin: 0;
-  padding: 5px;
+  padding: 0;
 }
 
 body {
@@ -60,6 +60,7 @@ main {
 
 .text p {
   color: hsl(218, 44%, 22%);
+  padding-top: 5px;
 }
 
 .sura {
